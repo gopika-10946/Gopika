@@ -1,0 +1,27 @@
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+:root {
+
+    --sky-blue: #87ceeb;
+
+    --deep-blue: #1e90ff;
+
+    --dark-blue: #0a2a43;
+
+    --twinkle: #ffffff;
+
+    --highlight: #ffdd00;
+
+}
+
+body {
+
+    font-family: 'Raleway', sans-serif;
